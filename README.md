@@ -54,8 +54,7 @@ To run this project locally, follow these steps:
 After installation, you can run the Jupyter notebooks provided to explore the data and analyze various aspects of the Zomato restaurant dataset. The main notebook for the project is `Zomato_Data_Analysis.ipynb`.
 
 To start the Jupyter notebook server, run:
-    ```bash
-    jupyter notebook
+    `jupyter notebook`
 
 ## Results
 
